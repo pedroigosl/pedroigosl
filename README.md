@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3>About me</h3>
 
-<!--
-**pedroigosl/pedroigosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate and Mechatronics Engineering student enthusiast of AI, machine learning and robotics. 
 
-Here are some ideas to get you started:
+Currently working with data analysis and simulated data injection, while dabbling with robotics, automation and other AI projects on free time.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>GitHub Stats</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroigosl&theme=dark&layout=compact)
+
+<h3>Other Links 🔗</h3>
+  <a target="_blank" href="https://www.linkedin.com/in/pedroigosl/">
+   <img align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
