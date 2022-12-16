@@ -2,7 +2,7 @@
 
 Computer Science graduate and Mechatronics Engineering student enthusiast of AI, machine learning and robotics. 
 
-Currently working with data analysis and simulated data injection, while dabbling with robotics, automation and other AI projects on free time.
+Currently working with data analysis and machine learning, while dabbling with robotics, automation and other AI projects on free time.
 <br/>
 
 <h3>GitHub Stats</h3>
