@@ -7,7 +7,10 @@ Currently working with data analysis and machine learning, while dabbling with r
 
 <h3>GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroigosl&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedroigosl&theme=dark&layout=compact)
+
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedroigosl&&show_icons=true&theme=dark&layout=compact)
 
 <h3>Other Links 🔗</h3>
   <a target="_blank" href="https://www.linkedin.com/in/pedroigosl/">
