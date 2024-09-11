@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-Computer Science graduate with masters in computer vision in progress. Enthusiast of AI, machine learning and robotics. 
+Computer Science graduate with a few Mechatronics Engineering classes. Enthusiast of Computer Vision, AI, machine learning and robotics. 
 
 Currently working with data science and machine learning, while dabbling with robotics, automation and other AI projects on free time.
 <br/>
