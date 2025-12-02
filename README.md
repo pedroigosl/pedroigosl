@@ -7,11 +7,7 @@ Currently working with data science and machine learning, while dabbling with ro
 
 <h3>GitHub Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroigosl&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=pedroigosl&&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroigosl)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Other Links 🔗</h3>
   <a target="_blank" href="https://www.linkedin.com/in/pedroigosl/">
