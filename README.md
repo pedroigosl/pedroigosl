@@ -5,10 +5,6 @@ Computer Science graduate with a few Mechatronics Engineering classes. Enthusias
 Currently working with data science and machine learning, while dabbling with robotics, automation and other AI projects on free time.
 <br/>
 
-<h3>GitHub Stats</h3>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroigosl)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Other Links 🔗</h3>
   <a target="_blank" href="https://www.linkedin.com/in/pedroigosl/">
    <img align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
